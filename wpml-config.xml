@@ -1,0 +1,63 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">cms_block</custom-type>
+        <custom-type translate="1">portfolio</custom-type>
+        <custom-type translate="0">basel_sidebar</custom-type>
+    </custom-types>   
+    <taxonomies>
+        <taxonomy translate="1">categories</taxonomy>
+        <taxonomy translate="1">project-cat</taxonomy>
+        <taxonomy translate="1">tag</taxonomy>
+    </taxonomies>  
+    <admin-texts>
+        <key name="xts-basel-options">
+            <key name="wishlist_page"/>
+            <key name="compare_page"/>
+            <key name="logo" />
+            <key name="logo-white" />
+            <key name="logo-sticky" />
+            <key name="logo_width" />
+            <key name="header_text" />
+            <key name="header_area" />
+            <key name="popup_text" />
+            <key name="reg_text" />
+            <key name="login_text" />
+            <key name="cookies_text" />
+            <key name="empty_cart_text" />
+            <key name="copyrights" />
+            <key name="copyrights2" />
+            <key name="prefooter_area" />
+            <key name="additional_tab_title" />
+            <key name="additional_tab_text" />
+            <key name="content_before_add_to_cart" />
+            <key name="content_after_add_to_cart" />
+			<key name="empty_compare_text" />
+			<key name="reg_title" />
+			<key name="login_title" />
+            <key name="header_banner_shortcode" />
+            <key name="grid_swatches_attribute" />
+            <key name="wishlist_empty_text" />
+            <key name="thank_you_page_extra_content"/>
+            <key name="link_1_text"/>
+            <key name="link_2_text"/>
+            <key name="link_3_text"/>
+            <key name="link_1_url"/>
+            <key name="link_2_url"/>
+            <key name="link_3_url"/>
+        </key>
+    </admin-texts>  
+    <custom-fields>
+        <custom-field action="translate" label="Extra content">_basel_extra_content</custom-field>
+        <custom-field action="translate" label="Custom tab title">_basel_product_custom_tab_title</custom-field>
+        <custom-field action="translate" label="Custom tab content">_basel_product_custom_tab_content</custom-field>
+    </custom-fields>
+    <shortcodes>
+        <shortcode>
+            <tag>basel_popup</tag>
+            <attributes>
+                <attribute>id</attribute>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+    </shortcodes>
+</wpml-config>

@@ -1,0 +1,17 @@
+// ------------------------------------------
+// XTS BORDER CONTROL
+// ------------------------------------------
+
+.xts-border {
+	display: flex;
+	flex-wrap: wrap;
+
+	.xts-border-color {
+		flex-basis: 100%;
+		margin-top: $xts-option-space;
+	}
+}
+
+.xts-border-bottom-width {
+	margin-right: $xts-option-space;
+}

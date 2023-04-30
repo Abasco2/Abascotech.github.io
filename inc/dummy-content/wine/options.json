@@ -1,0 +1,16 @@
+{
+   "site_width":"full-width",
+   "top-bar":"0",
+   "products_hover":"link",
+   "header":"simple",
+	"menu_align":"center",
+	"primary-color" : "#a22c4d",
+	"primary-font": {
+		"font-family": "Merriweather",
+		"google": true
+	},
+	"post-titles-font": {
+		"font-family": "Courgette",
+		"google": true
+	}
+}

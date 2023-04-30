@@ -1,0 +1,1 @@
+.woocommerce-checkout-review-order{display:flex;flex-direction:column}#order_review_heading{order:1;text-align:center}.woocommerce-checkout-review-order .responsive-table{order:2}#order_payment_heading{order:3}#payment{order:4}.wc-gzd-order-submit{order:6}#order_review_heading,#order_payment_heading{text-transform:uppercase;letter-spacing:.6px;font-weight:bold}
